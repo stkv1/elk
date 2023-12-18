@@ -28,3 +28,6 @@
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
+
+![image](https://github.com/stkv1/elk/assets/145263196/047f6318-ac7a-4e97-9723-572202c2a224)
+
